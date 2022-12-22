@@ -15,7 +15,7 @@ This app is a clone of the popular app ClipDrop, which allows you to remove the 
 ## Setup
 - Clone the repository and open the project in Android Studio:
 `https://github.com/koushikjoshi/ClipDropClone`
-- Create a file called keys.xml in the root directory of the project
+- Create a file called keys.xml in the `app/src/main/res/values` directory of the project
 - In keys.xml, add the following code:
 
 ```
@@ -41,13 +41,14 @@ This app is a clone of the popular app ClipDrop, which allows you to remove the 
 
 ## Built With
 - Android Studio - The mobile development platform used
-- Kotlin - The programming language used
+- Kotlin - The programming language used to build the android app
+- Python - Programming language used to build the Flask app
 - ClipDrop API - The API used to remove the background from the images
 
 ### Libraries:
 
 #### Python:
-- Python Flask - for to communicate between the app and the PC
+- Python Flask - to communicate between the app and the PC
 - PIL
 
 #### Android:
