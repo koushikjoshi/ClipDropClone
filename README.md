@@ -7,6 +7,9 @@ This app is a clone of the popular app ClipDrop, which allows you to remove the 
 - Save the resulting image to your device
 - Send the resulting image to a Python GUI app built with tkinter
 
+## Demo
+Please check out the tweet [here](https://twitter.com/koushikjoshi/status/1605495230324539392?s=20&t=vBsY84PfTD0zb0GXQoKLpg) to view a video demo of the project.
+
 ## Prerequisites
 - Android Studio
 - An API key for the ClipDrop API (sign up for one [here](https://clipdrop.co/apis/docs/remove-background))
